@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 大易通解
-#+DATE: 2015-09-23 09:35:32
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 21:59:26.743475
+#+PROPERTY: ID KR1a0136
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1a0136_WYG_007-1a>¶
 欽定四庫全書¶
 　大易通解卷七¶
@@ -1262,4 +1264,3 @@
 　¶
 　¶
 　大易通解卷七¶
-

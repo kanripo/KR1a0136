@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 大易通解
-#+DATE: 2015-09-23 09:35:33
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 21:59:27.012546
+#+PROPERTY: ID KR1a0136
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 附錄
 <pb:KR1a0136_WYG_016-1a>¶
 欽定四庫全書¶
 　大易通解¶
@@ -542,4 +544,3 @@
 　¶
 　¶
 　大易通解附録¶
-

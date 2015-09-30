@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 大易通解
-#+DATE: 2015-09-23 09:35:33
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 21:59:26.986272
+#+PROPERTY: ID KR1a0136
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1a0136_WYG_015-1a>¶
 欽定四庫全書¶
 　大易通解卷十五¶
@@ -557,4 +559,3 @@
 　¶
 　¶
 　大易通解卷十五¶
-
